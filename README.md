@@ -6,6 +6,7 @@ En este repositorio subiremos el trabajo de cada uno de los equipos y en particu
 
 ## Proyecto Final / La Ciencia de Datos Estudiando la Violencia de Género.
 Por el momento compartiremos los avances del proyecto mediante links.
+
 La base del proyecto está basado en las siguientes pasos:
 
 - Preguntar, preparar, procesar,analizar,compartir,actuar 
