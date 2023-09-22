@@ -17,12 +17,10 @@ Tambien denominadas "Seis pasos del proceso de Análisis".
 
 ## Estas son la herramientas utilizadas:
 
-- Colab
-Código en Colab: https://colab.research.google.com/drive/1gX_Ydl74VnuajFzMHqAGZf1_GU0FMSt6?usp=sharing
+- Código en Colab: https://colab.research.google.com/drive/1gX_Ydl74VnuajFzMHqAGZf1_GU0FMSt6?usp=sharing
 (Por el momento solo subimos el link del colab para que comenten en vivo, porque aún no está completo para subirlo en la plataforma)
 
- - Looker Studio 
-Link visualización del Dashboard: https://lookerstudio.google.com/reporting/7b6e7ebb-4c64-4917-8765-432611626e02
+ - Looker Studio | Link visualización del Dashboard: https://lookerstudio.google.com/reporting/7b6e7ebb-4c64-4917-8765-432611626e02
 (sigue en proceso)
 
 
