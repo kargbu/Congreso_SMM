@@ -28,3 +28,4 @@ Link visualización del Dashboard: https://lookerstudio.google.com/reporting/7b6
 
 "Una de las formas más poderosas de usar los datos es al momento de tomar desiciones basadas en ellos".
 
+
