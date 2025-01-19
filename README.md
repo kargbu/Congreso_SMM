@@ -1,10 +1,7 @@
 # Congreso_SMM
 Esta es una colaboración del PP que estudió el caso de violencia de género de los estudiantes de Ciencias de Datos para Negocios.
 
-En este repositorio subiremos el trabajo de cada uno de los equipos y en particular el dashboard colaborativo.
-
-
-## Proyecto Final / La Ciencia de Datos Estudiando la Violencia de Género.
+La Ciencia de Datos Estudiando la Violencia de Género.
 Por el momento compartiremos los avances del proyecto mediante links.
 
 
